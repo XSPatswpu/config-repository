@@ -1,7 +1,2 @@
-spring:
-  application:
-    name: order
-server:
-  port: 8889
 evn:
   dev
